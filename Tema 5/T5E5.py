@@ -1,5 +1,4 @@
-numero=input()
-numero=int(numero)
+numero=int(input())
 
 if numero<0:
     print("El número no es positivo")

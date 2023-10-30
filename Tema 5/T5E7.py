@@ -1,8 +1,7 @@
 negativos=0
 positivos=0
 for i in range (0,10):
-    numero=input()
-    numero=int(numero)
+    numero=int(input())
     if numero<0:
         negativos=negativos+1
     else:
