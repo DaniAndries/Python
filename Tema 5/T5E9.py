@@ -1,3 +1,6 @@
-contador = 0
+contadorSuma = 0
+contadorProducto = 1
 for i in range(1, 10):
-    contador = contador + 1
+    contadorSuma = contadorSuma + 1
+    contadorProducto = contadorProducto * i
+print(contadorSuma, " ", contadorProducto)
