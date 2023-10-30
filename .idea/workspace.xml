@@ -5,22 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c8e54d5-9e16-423d-a97f-97f0f759c7c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 5/T5E1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/T5E1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 5/T5E2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/T5E2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 5/T5E3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/T5E3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 5/T5E4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/T5E4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 5/T5E5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/T5E5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 5/T5E6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/T5E6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 5/T5E7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/T5E7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 5/T5E8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 5/T5E8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema 5/T5E9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +37,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2XUYvn81IJ9tAxbbDh4c9y3ouVs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
