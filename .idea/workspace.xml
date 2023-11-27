@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c8e54d5-9e16-423d-a97f-97f0f759c7c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/SegundaParte/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6A/A1_Punto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6A/A2_Persona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6A/A3_Rectángulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6A/A4_Artículo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6B/B1_Punto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -75,5 +78,8 @@
       <updated>1698685358253</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
