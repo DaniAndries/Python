@@ -52,8 +52,10 @@ def main():
     pvp1 = articulo1.get_iva() / 100 * articulo1.get_precio() + articulo1.get_precio()
     pvp2 = articulo2.get_iva() / 100 * articulo2.get_precio() + articulo2.get_precio()
 
-    print(articulo1.get_nombre(), "- Precio:", articulo1.get_precio(), "€ - IVA:", articulo1.get_iva(), "% - PVP:", pvp1, "€")
-    print(articulo2.get_nombre(), "- Precio:", articulo2.get_precio(), "€ - IVA:", articulo2.get_iva(), "% - PVP:", pvp2, "€")
+    print(articulo1.get_nombre(), "- Precio:", articulo1.get_precio(), "€ - IVA:", articulo1.get_iva(), "% - PVP:",
+          pvp1, "€")
+    print(articulo2.get_nombre(), "- Precio:", articulo2.get_precio(), "€ - IVA:", articulo2.get_iva(), "% - PVP:",
+          pvp2, "€")
 
 
 if __name__ == "__main__":

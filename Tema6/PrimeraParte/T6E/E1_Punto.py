@@ -23,22 +23,22 @@ def main():
     punto2 = Punto(10, 10)
     punto3 = Punto(-3, 7)
 
-    print("Coordenada x:", punto1.getX(), "Coordenada y:", punto1.getY())
-    print("Coordenada x:", punto2.getX(), "Coordenada y:", punto2.getY())
-    print("Coordenada x:", punto3.getX(), "Coordenada y:", punto3.getY())
+    print("Coordenada x:", punto1.get_x(), "Coordenada y:", punto1.get_y())
+    print("Coordenada x:", punto2.get_x(), "Coordenada y:", punto2.get_y())
+    print("Coordenada x:", punto3.get_x(), "Coordenada y:", punto3.get_y())
 
     print("Segunda Parte")
 
-    punto1.setX(5)
-    punto1.setY(10)
-    punto2.setX(3)
-    punto2.setY(9)
-    punto3.setX(6)
-    punto3.setY(15)
+    punto1.set_x(5)
+    punto1.set_y(10)
+    punto2.set_x(3)
+    punto2.set_x(9)
+    punto3.set_x(6)
+    punto3.set_y(15)
 
-    print("Coordenada x:", punto1.getX(), "Coordenada y:", punto1.getY())
-    print("Coordenada x:", punto2.getX(), "Coordenada y:", punto2.getY())
-    print("Coordenada x:", punto3.getX(), "Coordenada y:", punto3.getY())
+    print("Coordenada x:", punto1.get_x(), "Coordenada y:", punto1.get_y())
+    print("Coordenada x:", punto2.get_x(), "Coordenada y:", punto2.get_y())
+    print("Coordenada x:", punto3.get_x(), "Coordenada y:", punto3.get_y())
 
 
 if __name__ == "__main__":
