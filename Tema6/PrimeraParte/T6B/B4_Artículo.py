@@ -4,6 +4,14 @@ class Articulo:
         self.precio = precio
         self.iva = iva
         self.cuantos_quedan = cuantos_quedan
+        if self.nombre == "":
+            print("Error al establecer nombre")
+        if self.precio <= 0:
+            print("Error al establecer precio")
+        if self.iva != 21:
+            print("Error al establecer IVA")
+        if self.cuantos_quedan < 0:
+            print("Error al establecer inventario")
 
 
 def main():

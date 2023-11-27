@@ -4,7 +4,8 @@ class Rectangulo:
         self.y1 = y1
         self.x2 = x2
         self.y2 = y2
-
+        if self.x2 > self.x1 and self.y2 > self.y1:
+            print("Error al establecer los valores")
 
 def main():
     rectangulo1 = Rectangulo(0, 0, 5, 5)

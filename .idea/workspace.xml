@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c8e54d5-9e16-423d-a97f-97f0f759c7c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6A/A1_Punto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6A/A2_Persona.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6A/A3_Rectángulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6A/A4_Artículo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6B/B1_Punto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6C/C1_Punto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6C/C2_Persona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6C/C3_Rectángulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6C/C4_Artículo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema6/PrimeraParte/T6B/B3_Rectángulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6B/B3_Rectángulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema6/PrimeraParte/T6B/B4_Artículo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema6/PrimeraParte/T6B/B4_Artículo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
