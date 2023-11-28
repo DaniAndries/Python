@@ -1,9 +1,8 @@
 import math
-import random
 
 
 class Punto:
-    def __init__(self, x=random.randint(-100, 100), y=random.randint(-100, 100)):
+    def __init__(self, x=0, y=0):
         self.__x = x
         self.__y = y
 
@@ -48,12 +47,10 @@ def main():
     punto1 = Punto(5, 0)
     punto2 = Punto(10, 10)
     punto3 = Punto(-3, 7)
-    punto4 = Punto()
 
     punto1.imprimir()
     punto2.imprimir()
     punto3.imprimir()
-    punto4.imprimir()
 
     print("Segunda Parte")
 
@@ -67,7 +64,6 @@ def main():
     punto1.imprimir()
     punto2.imprimir()
     punto3.imprimir()
-    punto4.imprimir()
 
 
 if __name__ == "__main__":
