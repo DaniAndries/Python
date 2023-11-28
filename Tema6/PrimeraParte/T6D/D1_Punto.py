@@ -37,7 +37,7 @@ class Punto:
             self.__x += dy
 
     def distancia(self, p):
-        return abs(math.pow((p.x - self.__x), 2) + math.pow((p.y - self.__y), 2))
+        return abs(math.pow((p.__x - self.__x), 2) + math.pow((p.__y - self.__y), 2))
 
     def imprimir(self):
         print("Coordenada x:", self.get_x(), "Coordenada y:", self.get_y())
@@ -64,6 +64,10 @@ def main():
     punto1.imprimir()
     punto2.imprimir()
     punto3.imprimir()
+
+    print(punto1.distancia(punto2))
+    print(punto2.distancia(punto3))
+    print(punto3.distancia(punto1))
 
 
 if __name__ == "__main__":
